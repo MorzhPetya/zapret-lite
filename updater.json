@@ -1,0 +1,11 @@
+{
+  "version": "v0.1.1",
+  "notes": "Первое обновление: улучшена стабильность автоподбора и исправлены баги трея.",
+  "pub_date": "2026-07-14T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "СЮДА_ВСТАВИТЕ_СОДЕРЖИМОЕ_ФАЙЛА_СИГНАТУРЫ_ИЗ_RELEASE_СБОРКИ",
+      "url": "https://github.com/ВАШ_ЛОГИН_GITHUB/ИМЯ_ВАШЕГО_РЕПОЗИТОРИЯ/releases/download/v0.1.1/Zapret-Control_0.1.1_x64-setup.nsis.zip"
+    }
+  }
+}
