@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.2",
-  "notes": "Багфикс #1, изменение интерфейса, добавление пол. соглашения.",
+  "version": "v0.1.3",
+  "notes": "Багфикс #2, добавление игрового режима, визуальные улучшения",
   "pub_date": "2026-07-14T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTjkzSkc4azZvRW9OK0hYeitRWEJ6UzhiQkR4aDVxK2JyQXV4QmdhYU9Xei9HWHdxWXNiSzVqNWhyM08wcjQ1OElWdklkL0syaFBZRGFLa2hzemFkUlNZOVFSS3VVVVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDY1MTEyCWZpbGU6WmFwcmV0IExpdGVfMC4xLjJfeDY0LXNldHVwLmV4ZQpOQmFDWXl4bUFXeitQOUZOcVNsZENuVnlYTGhlQ1FRSDRaRGRraUVHelNDL0FTbnRHRURGUk5RU1J5bDRUTzBGN3FaSHgwZUhmck5wblNmOEMwcjBBUT09Cg==",
-      "url": "https://github.com/MorzhPetya/zapret-control/releases/download/v0.1.2/Zapret.Lite_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTjkzSkc4azZvRXQwSWlOWXJ3Y2RzT1ZFRTM4b3lQWVFHZEZpUkhRb1EvaWQ1TzJxOWhlczFKRUNIbmMwY1RsS05SZ1Z5dUhBZ1JSaWFGeDg5SnFLV0hFVTkxNURBS2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTE3ODU2CWZpbGU6WmFwcmV0IExpdGVfMC4xLjNfeDY0LXNldHVwLmV4ZQpxMHJsWUV2UmFJSGNJN0xQTGFkNVhRYmNMK09pR1luaEVlS21WSG0rUjBINktZeWJMSWVtckp1SDJQTWpRVVM0bStqcDI1V1h2cFJlOW15Y2w3SmpBUT09Cg==",
+      "url": "https://github.com/MorzhPetya/zapret-control/releases/download/v0.1.3/Zapret.Lite_0.1.3_x64-setup.exe"
     }
   }
 }
