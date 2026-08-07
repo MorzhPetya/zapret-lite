@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.6",
-  "notes": "v0.1.6: Исправления IPSet, стабильность игрового фильтра и новый дизайн",
-  "pub_date": "2026-08-01T12:00:00Z",
+  "version": "v0.1.7",
+  "notes": "v0.1.7: Исправления IPSet, визуальные и технические улучшения",
+  "pub_date": "2026-08-07T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTjkzSkc4azZvRW9zMXlJN3BIdGNFTDNjWnNUTzhqSnZ4TXlyNzBrTjJmcVdnL2xRTE9XNlBFOVhlM0N0L3RyazZnNEY4UGpmam9XL005RkM3K1k1TEZ2cXYzNTNTd0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTQwMjU4CWZpbGU6WmFwcmV0IExpdGVfMC4xLjZfeDY0LXNldHVwLmV4ZQpJUXRNbTg2eTRlYmlpeVdjRk0xR2I2SXQ2VDFjMy9yalQxZWJVMGFrcnQweXUwTUVHM1l3ZWJvaWZ5WThDOVJHYnJhVUFFTGh4SG10WjZvN1M3UEhCdz09Cg==",
-      "url": "https://github.com/MorzhPetya/zapret-lite/releases/download/v0.1.6/Zapret.Lite_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTjkzSkc4azZvRXZiNlIzY3BBNWtrRTVTSVgwVE8vQU5Vb2l1RnpMQkhCNXIxQldjVlV2UTRXeGlwTFRQcHVZRkhDeTNXZXZGV3VDNFVHdXFLS0w4T0RLMWh5di84MXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTE0MTY4CWZpbGU6WmFwcmV0IExpdGVfMC4xLjdfeDY0LXNldHVwLmV4ZQo3amV2dEFIWjVuRlNXdmhibnNPTURsUURtckc5WVdoQW4zbGVya2ZIUXF3bXp4OTluQitmU2g4VE9xME4vL0RvRCt6ZDFBQlFuMkE0ZmVTTmVoY2JDUT09Cg==",
+      "url": "https://github.com/MorzhPetya/zapret-lite/releases/download/v0.1.7/Zapret.Lite_0.1.7_x64-setup.exe"
     }
   }
 }
