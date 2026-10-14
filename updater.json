@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.8",
-  "notes": "v0.1.8: Глобальное обновление",
-  "pub_date": "2026-10-11T12:00:00Z",
+  "version": "v0.1.9",
+  "notes": "v0.1.9: Визуальные изменения, обход замедления Telegram.",
+  "pub_date": "2026-10-14T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTjkzSkc4azZvRXA4OThMRUgzT2lPSjFkSW9oNzFHK0FPWm1ReXFOWlZ6blB6VktFM0wyR2JNMU1ERGtxeldkK1h2VFBGZ2FEVmxFekd5NlpOT3liL2p5aWZlVkFmZ3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzA3Njg4CWZpbGU6WmFwcmV0IExpdGVfMC4xLjhfeDY0LXNldHVwLmV4ZQpDUHJUK3oxeDl1Z250UTlCeXIxSmdRbHZDNzAwcmQrK0dZK3N0MTN4SDU2NTRyQ1VvWGRwN3pNU1FOZklOaEs0Y2Y5a0ZEZHM2Y2lUaGVkUEcyN1lDZz09Cg==",
-      "url": "https://github.com/MorzhPetya/zapret-lite/releases/download/v0.1.8/Zapret.Lite_0.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTjkzSkc4azZvRWhlb2RWYnlZbS9yOE0xc1lCMEhCdUpxZE1WOWhyYmhKQTRsc3UxRzNvVnRSakp4bEpZK0V5VG5LemJpNFBjaHhEMnpTZHhsVTU1VGFoRkFuMnljdEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTQ2MTA4CWZpbGU6WmFwcmV0IExpdGVfMC4xLjlfeDY0LXNldHVwLmV4ZQpCSGRYR0xIeWZ2NXRYeCtQZC9UOGtGRlh6dVpzcXhrcUlkMXVPSkVweVNNSmdiV3I3dUhDZnJObGtobGhNTit5VER6aEM4WEtCeWZjQW9VVVNNUXNEZz09Cg==",
+      "url": "https://github.com/MorzhPetya/zapret-lite/releases/download/v0.1.9/Zapret.Lite_0.1.9_x64-setup.exe"
     }
   }
 }
